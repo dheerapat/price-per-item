@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+div h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 1em;
+}
